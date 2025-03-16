@@ -1,4 +1,5 @@
-## Hi there 👋
+# 学习使人进步
+## hello world ! 👋
 
 <!--
 **Amon12345-sun/Amon12345-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
